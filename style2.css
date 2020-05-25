@@ -1,0 +1,26 @@
+#container {
+background-image: url('C:/Users/alexe/Downloads/1579539544_1-2.jpg');
+margin: auto; 
+text-align: center; 
+width: 85%;
+height: 1060px; 
+border: solid;
+float: left;
+}
+#header {
+background:width: 100%;
+height: 10%;
+font-family: Algerian, algerian;
+}
+#li {
+	list-style-type: none;
+}
+#td ul li a:hover { 
+background-color: #666;
+color: #ffffff;
+}
+#footer {
+bottom: auto;
+width: 100%;
+height: 40px;
+}
